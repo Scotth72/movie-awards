@@ -10,12 +10,15 @@
 body {
     font-family: 'Open Sans', sans-serif;
     color: #222;
-    /* padding-bottom: 10px; */
+    padding-bottom: 10px;
  }
 .App {
-  /* background-color: #ffefd2; */
-  /* height: 100vh; */
   overflow: hidden;
+}
+
+header {
+  position: fixed;
+  width: 100%;  
 }
 
 
